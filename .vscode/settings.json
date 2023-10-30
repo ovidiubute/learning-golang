@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "golang.go",
+  "editor.tabSize": 4,
+  "editor.rulers": [
+    80,
+  ],
+}
